@@ -115,7 +115,7 @@ public class Translator {
 	 * printed and then popping it to the first address of the Hack
 	 * computer's video memory.
 	 *
-	 * @param line A string to translate.
+	 * @param chunk A string to translate.
 	 *
 	 * @return A translated line.
 	 */
